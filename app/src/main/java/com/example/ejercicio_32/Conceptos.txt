@@ -1,0 +1,14 @@
+RecyclerView
+Es un componente de interfaz de usuario de Android, este puede mostrar una vista desplazable que muestra listas o grupos de elementos. Es una versión más efectiva y adaptable del ListView anterior. Debido a que puede controlar el reciclaje y la presentación de elementos, RecyclerView es particularmente útil para listas largas o dinámicas.
+
+CardView
+Es un componente de interfaz de usuario de Android que nos permite visualizar el contenido en formas de tarjetas. Las tarjetas, que se utilizan con frecuencia para presentar información de manera organizada y visualmente atractiva, son contenedores que pueden contener una variedad de elementos, como imágenes, texto y botones. Con el soporte de Android, el CardView permite crear diseños de tarjetas que se integren perfectamente con el aspecto general de la aplicación.
+
+VideoView
+Es un widget del amrco de Android que nos permite la reproducción de videos en aplicaciones. junto con ImageView (para imágenes) y TextView (para texto), es una de las herramientas fundamentales para mostrar contenido multimedia. El VideoView permite la reproducción de videos sin necesidad de crear una interfaz única, antes se podian ver videos de youtube gracias a la API de YouTube Android Player API, pero actualmente eso ya no esta disponible, asi que para lograr que se mostrara un video de Youtube en mi aplicacion tuve que utilizar un WebView ya que en la misma documentacion de la API me dice que ahora ya se usa el IFRAME.
+
+WebView
+Es un widget disponible en Android que permite la visualización de contenido web en una aplicación. ofrece un método fácil y rápido para integrar contenido web, como sitios web completos o fragmentos de contenido HTML, en una aplicación nativa. El WebView es un componente de vista que muestra páginas web y permite interactuar con ellas.
+
+Notificaciones y servicios en segundo plano
+Las notificaciones son mensajes visuales que alertan al usuario sobre eventos importantes como mensajes nuevos o actualizaciones, incluso si la aplicación no está en primer plano. Por otro lado, los servicios en segundo plano permiten que la aplicación realice tareas prolongadas y continuas, como reproducir música o descargar archivos, sin requerir interacción constante del usuario, lo que contribuye a una experiencia más fluida y completa.

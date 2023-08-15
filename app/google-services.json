@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881119313338",
+    "project_id": "recycler-df5d0",
+    "storage_bucket": "recycler-df5d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881119313338:android:d94a3d71cf94154272b183",
+        "android_client_info": {
+          "package_name": "com.example.ejercicio_32"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881119313338-8td9th5gtrco5v925gb575ifs7doj6bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM2fRBjQhLRJAciy7uM-I2FdXxQXmYFdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881119313338-8td9th5gtrco5v925gb575ifs7doj6bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
